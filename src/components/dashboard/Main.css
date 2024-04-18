@@ -1,0 +1,27 @@
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    height: 400px;
+    width:800px;
+  }
+  .info-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .info-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 45%; 
+    border-radius: 10px;
+    box-shadow:0 0 12px black;
+  } 
+
+  .react-slideshow-container
+  {
+    width:400px;
+    justify-content: center;
+    align-items: center;
+  }
